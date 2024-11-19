@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sin&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Sin&#39;s Blog</description>
+    <image>
+      <title>Sin&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.139.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Nov 2024 12:37:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Broncoder.wsf Malware Analysis: USB Worm</title>
+      <link>http://localhost:1313/posts/broncoder/</link>
+      <pubDate>Tue, 19 Nov 2024 12:37:33 +0100</pubDate>
+      <guid>http://localhost:1313/posts/broncoder/</guid>
+      <description>Today we&amp;#39;ll be analysing a WSF worm that spreads through USB.</description>
+    </item>
+  </channel>
+</rss>
